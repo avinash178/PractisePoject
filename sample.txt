@@ -1,1 +1,7 @@
+
 this is master branch
+
+bugOne is fixed
+
+
+all fixed ready to use
